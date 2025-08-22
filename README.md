@@ -28,4 +28,6 @@ Este proyecto implementa operaciones aritméticas básicas en Haskell utilizando
 
 En el archivo `Sucesora.hs` se incluye una función principal `main` que ejecuta pruebas para todas las funciones.  
 Ejemplo de salida:
+
+
 <img width="359" height="193" alt="image" src="https://github.com/user-attachments/assets/0395f665-3cf1-4e5a-887e-180210859724" />
